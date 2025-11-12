@@ -1,0 +1,2 @@
+Hello Students, 
+in today's lecture, i will teach you - git clone, git fork, creating a pull request (PR).
